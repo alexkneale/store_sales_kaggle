@@ -4,3 +4,5 @@ statsmodels
 polars
 scikit-learn
 matplotlib
+streamlit
+plotly
