@@ -6,3 +6,9 @@ scikit-learn
 matplotlib
 streamlit
 plotly
+statsmodels
+prophet
+hyperopt
+setuptools
+arch
+seaborn
